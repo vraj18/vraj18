@@ -35,7 +35,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -51,4 +50,4 @@
 ---
 
 ⭐ **If you like my work, feel free to star my repositories!** ⭐  
-![Thanks for Visiting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+![Thanks for Visiting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
